@@ -26,7 +26,7 @@ ZJU-CarbonViz is a comprehensive web application designed to visualize and monit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ZJU-CarbonViz.git
+   git clone https://github.com/Siiichenggg/ZJU-CarbonViz.git
    cd ZJU-CarbonViz
    ```
 
