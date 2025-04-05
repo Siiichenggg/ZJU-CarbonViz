@@ -1,6 +1,6 @@
 # ZJU-CarbonViz
 
-## Zhejiang University Haining Campus Carbon Emission Visualization System
+## Zhejiang University Haining International Campus Carbon Emission Visualization System
 
 ZJU-CarbonViz is a comprehensive web application designed to visualize and monitor carbon emissions, electricity consumption, water usage, and natural gas consumption at the Zhejiang University Haining Campus. This dashboard serves as both a monitoring tool and a decision support system for campus sustainability initiatives.
 
